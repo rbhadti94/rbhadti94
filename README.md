@@ -1,4 +1,12 @@
-### Hi there 👋
+# Hi there 👋
+
+I'm currently a Cloud & DevOps Engineer working in London, UK.
+
+## About Me
+
+- 🔭 I’m currently working in the AWS space alongside tooling such as Terraform, Python and Git to automate workflows and support product teams.
+- 💻 I use regularly ```terraform```, ```python```,  ```packer``` & anything in ```aws``` really.
+- 💬 Ask me about anything really. I love solving problems.
 
 <!--
 **rbhadti94/rbhadti94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
